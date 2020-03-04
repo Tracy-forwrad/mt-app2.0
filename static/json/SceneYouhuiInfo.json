@@ -1,0 +1,198 @@
+{
+	"sceneInfo": {
+		"totalTitle": "狠优惠",
+		"content": [
+			{
+				"cate": "all",
+				"text": "全部",
+				"data": [{
+					"imgUrl": "//p0.meituan.net/msmerchant/7d1da6851817f1b56607c4c2ee024869397148.jpg@460w_260h_1e_1c",
+					"title": "糖猫动物奶油蛋糕（石头街店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": "true",
+					"pos": "城隍庙"
+				}, 
+				{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				}]
+			},
+			{
+				"cate": "meishi",
+				"text": "美食",
+				"data": [{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"isSold": false,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139,
+						"remainNum": 80
+					},
+					"pos": "城隍庙"
+				}]
+			},
+			{
+				"cate": "xiuxian",
+				"text": "休闲",
+				"data": [{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"isSold": true,
+					"pos": "城隍庙"
+				}]
+			}]
+	}
+}

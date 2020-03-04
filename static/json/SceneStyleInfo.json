@@ -1,0 +1,203 @@
+{
+	"sceneInfo": [{
+		"totalTitle": "有格调",
+		"content": [
+			{
+				"cate": "all",
+				"text": "全部",
+				"data": [{
+					"imgUrl": "//p0.meituan.net/msmerchant/7d1da6851817f1b56607c4c2ee024869397148.jpg@460w_260h_1e_1c",
+					"title": "糖猫动物奶油蛋糕（石头街店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"hasPriceInfo": false,
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p0.meituan.net/mogu/a1fb472735457e579a8a34b8cddca963148048.jpg@460w_260h_1e_1c",
+					"title": "焙乐多（潞卓广场店）",
+					"subTitle": "奶油蛋糕1个，约8英寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 168,
+						"newPrice": 99
+					},
+					"pos": "英雄北路"
+				}, {
+					"imgUrl": "//p1.meituan.net/mogu/f60e452243753fcedcf2100169754b34364976.jpg@460w_260h_1e_1c",
+					"title": "糖猫动物奶油蛋糕（石头街店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/msmerchant/05ddb5ae154b09bfa16936f36f59a5d41352106.jpg@460w_260h_1e_1c",
+					"title": "糖猫动物奶油蛋糕（石头街店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}]
+			},
+			{
+				"cate": "amuse",
+				"text": "约会聚餐",
+				"data": [{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"hasPriceInfo": false,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"hasPriceInfo": false,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"hasPriceInfo": false,
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"hasPriceInfo": false,
+					"pos": "城隍庙"
+				}]
+			},
+			{
+				"cate": "SPA",
+				"text": "丽人SPA",
+				"data": [{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				},{
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}]
+			},
+			{
+				"cate": "travel",
+				"text": "品质出游",
+				"data": [{
+					"imgUrl": "//p0.meituan.net/msmerchant/7d1da6851817f1b56607c4c2ee024869397148.jpg@460w_260h_1e_1c",
+					"title": "糖猫动物奶油蛋糕（石头街店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/mogu/91a88ce0481d46d0c452719d14b3b3ce90632.jpg@240w_180h_1e_1c_1l|watermark=1&&r=2&p=9&x=2&y=2&relative=1&o=20|460w_260h_1e_1c",
+					"title": "鑫荷玉生池洗浴",
+					"subTitle": "鑫荷玉生池洗浴",
+					"hasPriceInfo": false,
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/bbia/4544f2fcb6d5ecf2e226684c1aee38c0735329.jpg@460w_260h_1e_1c",
+					"title": "世纪三毛（龙后店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p0.meituan.net/mogu/a1fb472735457e579a8a34b8cddca963148048.jpg@460w_260h_1e_1c",
+					"title": "焙乐多（潞卓广场店）",
+					"subTitle": "奶油蛋糕1个，约8英寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 168,
+						"newPrice": 99
+					},
+					"pos": "英雄北路"
+				}, {
+					"imgUrl": "//p1.meituan.net/mogu/f60e452243753fcedcf2100169754b34364976.jpg@460w_260h_1e_1c",
+					"title": "糖猫动物奶油蛋糕（石头街店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}, {
+					"imgUrl": "//p1.meituan.net/msmerchant/05ddb5ae154b09bfa16936f36f59a5d41352106.jpg@460w_260h_1e_1c",
+					"title": "糖猫动物奶油蛋糕（石头街店）",
+					"subTitle": "新西兰纯动物奶油蛋糕1个，约8寸，圆形",
+					"hasPriceInfo": true,
+					"priceInfo": {
+						"oldPrice": 188,
+						"newPrice": 139
+					},
+					"pos": "城隍庙"
+				}]
+			}
+		]
+	}]
+}

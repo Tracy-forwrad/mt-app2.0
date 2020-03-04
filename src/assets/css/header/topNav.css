@@ -1,0 +1,65 @@
+.el-header{
+	padding: 0;
+}
+.top-nav-wrap{
+	width: 100%;
+	background: #F8F8F8;
+	color: #999;
+}
+.top-nav{
+	width: 1190px;
+	height: 40px;
+}
+.top-item-left{
+	float: left;
+}
+.top-item-right{
+	float: right;
+}
+.top-nav li ul{
+	float: left;
+}
+.top-item .top-item--little{
+	float: left;
+	font-size: 12px;
+	line-height: 24px;
+	padding: 6px 8px;
+}
+.top-item .top-item--little .now-login{
+	color: #FE8C00;
+}
+.top-item .top-item--little .change-city{
+	background: #f4f4f4;
+	border: 1px solid #e5e5e5;
+	border-radius: 2px;
+	padding: 2px 5px;
+	color: #666;
+}
+.top-item .top-item--little .hot-area{
+	color: #666;
+}
+.top-item--little.site-nav-item.top-right-item--little{
+	margin-right: 10px;
+}
+.hasChild:hover{
+	background: #fff;
+	position: relative;
+	border-left: 1px solid #dedede;
+	border-right: 1px solid #dedede;
+	box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
+}
+.hasChild .child-list{
+	display: none;
+	position: absolute;
+	width: 64px;
+	top: 33px;
+	left: -1px;
+	z-index: 1000;
+	background: #fff;
+	border: 1px solid #dedede;
+	border-top: 1px solid #fff;
+	box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
+}
+.hasChild:hover .child-list{
+	display: block;
+}

@@ -1,0 +1,206 @@
+@font-face {
+	font-family: iconFont;
+	src: url('~@/assets/font/iconfontNew.woff') format('woff');
+}
+.my-category {
+	z-index: 200;
+	border: 1px solid #E5E5E5;
+	width: 230px;
+	height: 475px;
+	box-sizing: border-box;
+	padding: 15px 0 0;
+	background: #fff;
+	margin-top: -50px;
+	position: relative;
+	.c-title{
+		font-weight: 700;
+		font-size: 16px;
+		color: #222;
+		margin-left: 15px;
+		margin-bottom: 20px;
+	}
+	.c-item {
+		height: 26px;
+		box-sizing: border-box;
+		padding: 2px 12px;
+		.c-item-showarea{
+			.r-title{
+				.r-title-innerwrap{
+					padding-left: 10px;
+					a{
+						font-size: 13px;
+						color: #646464;
+						height: 20px;
+						line-height: 20px;
+						vertical-align: middle;
+					}
+				}
+				
+			}
+			span.r-icon{
+				font-family: "iconFont" !important; 
+				font-size: 16px;
+				vertical-align: middle;
+				line-height: 18px;
+				&.icon-foodNew:before{
+					content: '\e60e';
+					color: #FF8200;;
+				}
+				&.icon-waimaiNew:before{
+					content: '\e60a';
+					color: #ffb500;
+				}
+				&.icon-hotelNew:before{
+					content: '\e616';
+					color: #9B5E3E;
+				}
+				&.icon-hotelNew + .r-title .hot{
+					margin-left: 5px;
+					vertical-align: middle;
+					cursor: pointer;
+					content: 'HOT';
+					background: #FFF3CC;
+					display: inline-block;
+					font-size: 12px;
+					color: #222;
+					border-radius: 10px;
+					width: 36px;
+					height: 18px;
+					line-height: 18px;
+					text-align: center;
+					opacity: 0.9;
+				}
+				&.icon-hotelNew + .r-title .hot:hover{
+					    opacity: 1;
+					    font-weight: 400;
+					    background: linear-gradient(to bottom right,#FFD000,#FFBD00);
+					}
+				&.icon-zhenguoNew:before{
+					content: '\e60c';
+					color: #FFB500;
+				}
+				&.icon-maoyanNew:before{
+					    content: '\e612';
+					    color: #FF3D00;
+				}
+				&.icon-planeNew:before{
+					content: '\e615';
+					color: #03A9F4;
+				}
+				&.icon-ktvNew:before{
+					content: '\e612';
+					color: #FF3D00;
+				}
+				&.icon-lifeNew:before{
+					content: '\e614';
+					color: #00BF96;
+				}
+				&.icon-beautyNew:before{
+					content: '\e60f';
+					color: #FF4081;
+				}
+				&.icon-beautyNew:before{
+					    content: '\e609';
+					    color: #FF4081;
+				}
+				&.icon-marriedNew:before{
+					content: '\e60f';
+					color: #FF4081;
+				}
+				&.icon-childNew:before{
+					content: '\e608';
+					color: #FF4081;
+				}
+				&.icon-sportNew:before{
+					content: '\e611';
+					color: #03A9F4;
+				}
+				&.icon-decorateNew:before{
+					content: '\e60b';
+					color: #00BF96;
+				}
+				&.icon-educationNew:before{
+					content: '\e610';
+					color: #00BF96;
+				}
+				&.icon-medicalNew:before{
+					content: '\e60d';
+					color: #03A9F4;
+				}
+				&.icon-barNew:before{
+					content: '\e606';
+					color: #00BF96;
+				}
+			}
+			span.el-icon-arrow-right{
+				float: right;
+				height: 26px;
+				line-height: 26px;
+			}
+			&:hover{
+				background: rgba(255,150,0,0.08);
+				color: #222222 !important;
+			}
+			&:hover a{
+				color: #222222 !important;
+				font-weight: bold;
+			}
+			&:hover .el-icon-arrow-right{
+				font-weight: bold;
+			}
+			&:hover ~ .c-item-hidearea{
+				// display: block;
+			}
+		}
+		.c-item-hidearea{
+			z-index: 1000;
+			// display: none;
+			background: transparent;
+			position: absolute;
+			width: 400px;
+			height: 416px;
+			box-sizing: border-box;
+			background: #fff;
+			color: #666;
+			top: 60px;
+			left: 230px;
+			.hidearea-wrap{
+				padding: 0 20px 0;
+				.hidearea-con{
+					dl{
+						width: 100%;
+						dt{
+							height: 22px;
+							line-height: 22px;
+							margin-top: 24px;
+							padding-bottom: 10px;
+							border-bottom: 1px solid #e5e5e5;
+							margin-bottom: 10px;
+							display: block;
+							width: 100%;
+							font-size: 16px;
+							float: left;
+							a{
+								color: #222;
+							}
+							span{
+								float: right;
+								font-size: 12px;
+							}
+						}
+						dd{
+							float: left;
+							a{
+								margin-right: 16px;
+								font-size: 12px;
+								height: 20px;
+								line-height: 20px;
+							}
+						}
+					}
+				}
+			}
+			
+		}
+	}
+}

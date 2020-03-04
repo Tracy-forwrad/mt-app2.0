@@ -1,0 +1,54 @@
+.my-nav{
+		background: #fff;
+		padding: 20px 0;
+		margin: 40px auto;
+		p{
+			font-size: 16px;
+			font-color: #222;
+			padding-left: 20px;
+		}
+		dl.nav-list{
+			padding: 0 20px;
+			margin: 15px 0;
+			.nav-list-wrap{
+				margin: 10px 0;
+				dt{
+					width: 60px;
+					height: 60px;
+					float: left;
+					font-size: 14px;
+					padding: 0px 0px;
+					margin-right: 10px;
+					margin: 10px 10px 0 0;
+				}
+				.dd-wrap{
+					display: inline-block;
+					width: 1050px;
+					border-bottom: 1px solid #ddd;
+					dd{
+						float: left;
+						font-size: 12px;
+						padding: 10px 0;
+						padding-right: 40px;
+						color: #666;
+						&:hover{
+							color: #FF8900;
+							cursor: pointer;
+						}
+						&.hot{
+							position: relative;
+							span{
+								position: absolute;
+								background: #f05;
+								padding: 1px 5px;
+								color: #fff;
+								right: -18px;
+								top: -5px;
+								border-radius: 10px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}

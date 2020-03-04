@@ -1,0 +1,80 @@
+.my-changeCity{
+	font-size: 16px;
+	color: #333;
+	font-weight: 500;
+	.inner-wrap{
+		border: 1px solid #e5e5e5;
+		background: #fff;
+		margin: 20px auto;
+		padding: 20px;
+		.row{
+			border-bottom: 1px solid #e5e5e5;
+		}
+		.select-area{
+			height: 40px;
+			line-height: 40px;
+			vertical-align: middle;
+			padding-bottom: 20px;
+			.pro-sel{
+				float: left;
+				.el-dropdown{
+					border: 1px solid #e5e5e5;
+					margin-left: 15px;
+					width: 150px;
+					padding-left: 5px;
+					position: relative;
+					i{
+						position: absolute;
+						top: 11px;
+					    right: 8px;
+					}
+				}
+				.el-input{
+					width: auto;
+					.el-input__inner{
+						background: #fff !important;
+					}
+				}
+			}
+			.dir-sel{
+				float: left;
+				margin-left: 50px;
+			}
+		}
+		.list{
+			padding: 15px 0;
+			height: 40px;
+			line-height: 40px;
+			dt{
+				float: left;
+				margin-right: 20px;
+			}
+			dd{
+				font-size: 15px;
+				color: #666;
+				float: left;
+				padding: 0 15px;
+				cursor: pointer;
+				&:hover{
+					color: #333;
+				}
+			}
+		}
+		.pin{
+			border-bottom: none;
+			dd{
+				width: 25px;
+				height: 25px;
+				line-height: 25px;
+				text-align: center;
+				padding: 0;
+				margin: 0 7px;
+				margin-top: 10px;
+				&:hover{
+					background: #e6e5e5;
+					border-radius: 50%;
+				}
+			}
+		}
+	}
+}

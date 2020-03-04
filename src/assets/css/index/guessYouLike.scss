@@ -1,0 +1,102 @@
+.my-guess-like{
+	margin-top: 40px;
+	.guess-header{
+		box-sizing: border-box;
+		padding-left: 15px;
+		border-top-left-radius: 4px;
+		border-top-right-radius: 4px;
+		width: 1190px;
+		height: 44px;
+		line-height: 44px;
+		color: #fff;
+		background: linear-gradient(to right, rgb(68, 174, 221) 2%, rgb(66, 191, 205) 97%) rgb(88, 174, 221);
+		.guess-title{
+			display: inline-block;
+			font-size: 20px;
+			font-weight: 500;
+		}
+		.guess-subTitle{
+			padding: 0 20px;
+			display: inline-block;
+			font-size: 16px;
+			position: relative;
+			&::after{
+				content: '';
+				width: 2px;
+				height: 1px;
+				background: linear-gradient(to right, rgb(68, 174, 221) 2%, rgb(66, 191, 205) 97%) rgb(88, 174, 221);
+				position: absolute;
+				bottom: 2px;
+				left: 50%;
+				border-top: 5px solid transparent;
+				border-left: 5px solid transparent;
+				border-right: 5px solid transparent;
+				border-bottom: 8px solid #fff;
+			}
+		}
+	}
+		box-sizing: border-box;
+		width: 1190px;
+		background: #fff;
+		.guess-list{
+			padding: 20px 10px;
+			border-bottom-left-radius: 4px;
+			border-bottom-right-radius: 4px;
+			.guess-item{
+				float: left;
+				width: 218px;
+				height: 240px;
+				padding: 10px 8px;
+				background: #fff;
+				text-align: center;
+				img{
+					width: 213px;
+					display: inline-block;
+					border-radius: 4px;
+				}
+				.info{
+					width: 213px;
+					text-align: left;
+					.title{
+						color: #333;
+						height: 27px;
+						line-height: 27px;
+						font-size: 16px;
+					}
+					.appr{
+						.star{
+							float: left;
+						}
+						.num{
+							line-height: 20px;
+							margin-left: 10px;
+							float: left;
+							font-size: 12px;
+						}
+					}
+					.pos{
+						line-height: 20px;
+						margin-left: 10px;
+					}
+					.price{
+						color: #FF6600;
+						font-size: 12px;
+						font-weight: bold;
+						.symbol{
+							font-size: 16px;
+							font-weight: 400;
+						}
+						.num{
+							margin-left: -6px;
+							font-size: 20px;
+							font-weight: 200;
+						}
+						
+					}
+				}
+				&:hover{
+					background: #F4F4F4;
+				}
+			}
+		}
+}
