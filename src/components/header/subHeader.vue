@@ -18,12 +18,13 @@
 									<li class="item"><a>中影星美</a></li>
 								</ul>
 								<ul class="hotS-list clearfix">
-									<li class="hot first-li">热门搜索</li>
-									<li class="item"><a href="">乐汤洗浴汗蒸生活馆</a></li>
-									<li class="item"><a href="">快活泉洗浴</a></li>
-									<li class="item"><a href="">呷哺呷哺</a></li>
-									<li class="item"><a href="">圣鲸美食汇</a></li>
-									<li class="item"><a href="">长治万达影城</a></li>
+									<li><a  class="hot" >乐汤洗浴汗蒸生活馆</a></li>
+									<li><a >快活泉洗浴</a></li>
+									<li><a >圣鲸美食汇</a></li>
+									<li><a >呷哺呷哺</a></li>
+									<li><a >SOHO天空影城</a></li>
+									<li><a >有拈头成都市井火锅</a></li>
+									<li><a >德得轩自助烤肉餐厅</a></li>
 								</ul>
 							</div>
 						</div>
